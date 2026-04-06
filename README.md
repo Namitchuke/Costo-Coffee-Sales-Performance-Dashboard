@@ -1,6 +1,6 @@
-# Sales-Performance-Dashboard
+# Costo-Coffe-Sales-Performance-Dashboard
 
-# Coffee Shop Sales Analysis & Dashboard
+# Costo-Coffe-Sales-Performance-Dashboard
 
 This repository contains a comprehensive sales analysis project for a coffee shop, using MySQL for data processing and Power BI for creating a dynamic, interactive dashboard. The goal is to analyze sales data to uncover key trends, track performance metrics, and provide actionable insights.
 
